@@ -1,0 +1,28 @@
+F:\Semester\Spring 23-24 [Current]\Dot Net\Person\Bookish\BLL\bin\Debug\BLL.dll
+F:\Semester\Spring 23-24 [Current]\Dot Net\Person\Bookish\BLL\bin\Debug\BLL.pdb
+F:\Semester\Spring 23-24 [Current]\Dot Net\Person\Bookish\BLL\bin\Debug\AutoMapper.dll
+F:\Semester\Spring 23-24 [Current]\Dot Net\Person\Bookish\BLL\bin\Debug\DAL.dll
+F:\Semester\Spring 23-24 [Current]\Dot Net\Person\Bookish\BLL\bin\Debug\EntityFramework.dll
+F:\Semester\Spring 23-24 [Current]\Dot Net\Person\Bookish\BLL\bin\Debug\DAL.pdb
+F:\Semester\Spring 23-24 [Current]\Dot Net\Person\Bookish\BLL\bin\Debug\DAL.dll.config
+F:\Semester\Spring 23-24 [Current]\Dot Net\Person\Bookish\BLL\bin\Debug\AutoMapper.xml
+F:\Semester\Spring 23-24 [Current]\Dot Net\Person\Bookish\BLL\bin\Debug\EntityFramework.xml
+F:\Semester\Spring 23-24 [Current]\Dot Net\Person\Bookish\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\Semester\Spring 23-24 [Current]\Dot Net\Person\Bookish\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Semester\Spring 23-24 [Current]\Dot Net\Person\Bookish\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Semester\Spring 23-24 [Current]\Dot Net\Person\Bookish\BLL\obj\Debug\BLL.dll
+F:\Semester\Spring 23-24 [Current]\Dot Net\Person\Bookish\BLL\obj\Debug\BLL.pdb
+D:\dot. net\Bookish 1\Bookish\BLL\bin\Debug\BLL.dll
+D:\dot. net\Bookish 1\Bookish\BLL\bin\Debug\BLL.pdb
+D:\dot. net\Bookish 1\Bookish\BLL\bin\Debug\AutoMapper.dll
+D:\dot. net\Bookish 1\Bookish\BLL\bin\Debug\DAL.dll
+D:\dot. net\Bookish 1\Bookish\BLL\bin\Debug\EntityFramework.dll
+D:\dot. net\Bookish 1\Bookish\BLL\bin\Debug\DAL.pdb
+D:\dot. net\Bookish 1\Bookish\BLL\bin\Debug\DAL.dll.config
+D:\dot. net\Bookish 1\Bookish\BLL\bin\Debug\AutoMapper.xml
+D:\dot. net\Bookish 1\Bookish\BLL\bin\Debug\EntityFramework.xml
+D:\dot. net\Bookish 1\Bookish\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\dot. net\Bookish 1\Bookish\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\dot. net\Bookish 1\Bookish\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\dot. net\Bookish 1\Bookish\BLL\obj\Debug\BLL.dll
+D:\dot. net\Bookish 1\Bookish\BLL\obj\Debug\BLL.pdb
